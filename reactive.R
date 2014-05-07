@@ -24,3 +24,6 @@ isolate(reactiveC())
 isolate(reactiveD())
 
 [1] 4
+#关于reactive
+#Reactive programming is a coding style that starts with reactive values–values that change over time, or in response to the user–and builds on top of them with reactive expressions–expressions that access reactive values and execute other reactive expressions.
+#即reactive分为reactive值和reactive表达式
